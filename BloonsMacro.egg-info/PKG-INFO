@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: BloonsMacro
+Version: 0.0.1
+Summary: Makes Bloons Macros Easy!
+Home-page: https://github.com/Jpizza99/Bloons_Macros
+Author: Jason Pitchford
+Author-email: devoidsloth@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Bloons_Macros
+
+Making Bloons Macroing Easier!
+
+Past Mortar May Not Currently Work (Working On A Simple Fix Now!)
+
+

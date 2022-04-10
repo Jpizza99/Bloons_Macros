@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+BloonsMacro/__init__.py
+BloonsMacro/macros.py
+BloonsMacro.egg-info/PKG-INFO
+BloonsMacro.egg-info/SOURCES.txt
+BloonsMacro.egg-info/dependency_links.txt
+BloonsMacro.egg-info/top_level.txt
