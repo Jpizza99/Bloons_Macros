@@ -1,4 +1,4 @@
-# Bloons_Macros
+# BloonsMacro
 
 Making Bloons Macroing Easier!
 
