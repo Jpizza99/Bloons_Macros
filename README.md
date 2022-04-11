@@ -1,5 +1,7 @@
 # BloonsMacro
 
+*Note*  **: This Package does make use of your mouse to place monkeys**
+
 Making Bloons Macroing Easier!
 
 Requires 1920x1080p Or Full HD to function
@@ -57,9 +59,56 @@ while True:
 ```
 
 ## Syntax
+The Monkey Class Takes in 4 peramiters <br/>
+```python
+#Targeting is optional by default will be first
+Monkey(int: x_location, int: y_location, str: monkey_type, str: targeting = None)
 
-The Monkey Class Takes in 4 peramiters
-Monkey(int: x location, int: y location, str: Monkey Type, **OPTIONAL** str: Targeting)
+# The monkey class has a few branching functions that can be used to upgrade sell and retarget monkeys.
+# For example if i created a sub on strong targeting at coords (700 872) and saved a refrence to it
+sub = Monkey(700, 872, 'sub', 'strong')
+
+# If i wanted to upgrade the sub to a 1-0-0 then I can do
+sub.upgrade(1)
+
+# Finally If i wanted to set the targeting to first I do
+sub.targeting('first')
+
+```
+
+### Monkey Type Names
+
+'hero'
+'dart'
+'tack'
+'boomer'
+'cannon'
+'ice'
+'glue'
+'snipe'
+'sub'
+'boat'
+'ace'
+'heli'
+'mortar'
+'dartling'
+'wizard'
+'super'
+'ninja'
+'alch'
+'druid'
+'farm'
+'sfactory'
+'village'
+'engineer'
+
+
+
+
+
+
+
+
 
 
 
