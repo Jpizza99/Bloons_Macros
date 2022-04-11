@@ -76,31 +76,31 @@ sub.targeting('first')
 
 ```
 
-### Monkey Type Names
+## Monkey Type Names
 
-'hero'
-'dart'
-'tack'
-'boomer'
-'cannon'
-'ice'
-'glue'
-'snipe'
-'sub'
-'boat'
-'ace'
-'heli'
-'mortar'
-'dartling'
-'wizard'
-'super'
-'ninja'
-'alch'
-'druid'
-'farm'
-'sfactory'
-'village'
-'engineer'
+**'hero'<br/>
+'dart'<br/>
+'tack'<br/>
+'boomer'<br/>
+'cannon'<br/>
+'ice'<br/>
+'glue'<br/>
+'snipe'<br/>
+'sub'<br/>
+'boat'<br/>
+'ace'<br/>
+'heli'<br/>
+'mortar'<br/>
+'dartling'<br/>
+'wizard'<br/>
+'super'<br/>
+'ninja'<br/>
+'alch'<br/>
+'druid'<br/>
+'farm'<br/>
+'sfactory'<br/>
+'village'<br/>
+'engineer'** <br/>
 
 
 
