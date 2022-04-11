@@ -28,3 +28,41 @@ myDart.set_targeting('close')
 
 
 ```
+
+#### Example Round Tracker
+```python
+# For Image Tracking
+import pyautogui as pg
+
+# For cooldown
+import time
+
+#Initial Round
+round = 0
+
+# Round Change Loop
+while True:
+    
+    # Check to see if the round image Changed 
+    if(pg.locateOnScreen(lvl) != None):
+        time.sleep(.9)
+    else: 
+        # Increase Rounf Num
+        round += 1
+        print('Round: ' + round)
+        # screenshot location for Full HD monitors
+        lvl= pg.screenshot(region=(1442,1,118,69))
+        time.sleep(.2)
+
+```
+
+## Syntax
+
+The Monkey Class Takes in 4 peramiters
+Monkey(int: x location, int: y location, str: Monkey Type, **OPTIONAL** str: Targeting)
+
+
+
+
+
+
